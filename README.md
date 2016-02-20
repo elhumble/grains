@@ -2,7 +2,7 @@
 grains
 ======
 
-`grains` calculates the amount of water you need for your grains. Just enter the quantity of grain you have.
+`grains` calculates the amount of water you need for your grains. Just enter the quantity of grain you have with the units.
 
 You can install:
 
