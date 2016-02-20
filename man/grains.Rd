@@ -17,6 +17,6 @@ Calculates how much water you need for your grains. I am working on the grain re
 and accept no responsibility for failed cooking attempts.
 }
 \author{
-Emily Humble (emily.lhumble@gmail.com)
+Emily (emily.lhumble@gmail.com)
 }
 

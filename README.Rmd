@@ -16,8 +16,7 @@ knitr::opts_chunk$set(
 
 # grains
 
-`grains` calculates the amount of water you need for your grains. Just enter the quantity of grain
-you have with the units.
+`grains` calculates the amount of water you need for your grains. So far, you can do this for `couscous`, `quinoa` & `rice`. Just enter the quantity and the units (either "g" or "cups"). I am going to add more grains.
 
 You can install:
 
@@ -25,6 +24,7 @@ You can install:
 if (packageVersion("devtools") < 1.6) {
         install.packages("devtools")
 }
+
 devtools::install_github("elhumble/grains")
 ```
 
