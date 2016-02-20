@@ -23,7 +23,7 @@ you have.
 
 If you want to know how much water you need for 50g of couscous:
 
-```{r, eval = FALSE}
+```{r, echo = TRUE}
 couscous(50, "g")
 ```
 
