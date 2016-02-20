@@ -19,14 +19,6 @@ knitr::opts_chunk$set(
 `grains` calculates the amount of water you need for your grains. Just enter the quantity of grain
 you have.
 
-## For example
-
-If you want to know how much water you need for 50g of couscous:
-
-```{r, echo = TRUE}
-couscous(50, "g")
-```
-
 You can install:
 
 ```R
@@ -36,8 +28,12 @@ if (packageVersion("devtools") < 1.6) {
 devtools::install_github("elhumble/grains")
 ```
 
+## For example
 
+If you want to know how much water you need for 50g of couscous:
 
-
-
+```{r, echo = TRUE}
+library(grains)
+couscous(50, "g")
+```
 
