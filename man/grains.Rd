@@ -13,7 +13,7 @@
 \link{rice}
 }
 \details{
-Calculates how much water you need for your grains. I am working on the grain repetoir and ratios
+Calculates how much water you need for your grains. I am working on the grain repetoire and ratios
 and accept no responsibility for failed cooking attempts.
 }
 \author{
